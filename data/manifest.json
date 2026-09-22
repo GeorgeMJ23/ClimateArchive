@@ -1,0 +1,1 @@
+{"version":1,"generated":"2026-09-22T16:54:36.513531+00:00","fields":{"tmodern":{"scale":0.01,"pattern":"tmodern-{period}.bin"},"told":{"scale":0.01,"pattern":"told-{period}.bin"},"precip":{"scale":0.1,"pattern":"precip-{period}.bin"}},"wind":true,"grid":{"west":19.0,"south":34.3,"step":0.019999999999999574,"nx":541,"ny":396,"nodata":-32768}}
